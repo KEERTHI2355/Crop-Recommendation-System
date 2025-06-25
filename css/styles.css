@@ -1,0 +1,36 @@
+body {
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+}
+
+form {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: 100px auto;
+}
+
+h1, h2, p {
+    text-align: center;
+    font-size: 18px;
+}
+
+img.crop-image {
+    display: block;
+    margin: 0 auto;
+    width: 80px; /* Set the width */
+    height: 80px; /* Keep the aspect ratio */
+}
+
+a {
+    display: block;
+    text-align: center;
+    color: #00ff00;
+    text-decoration: none;
+    margin-top: 20px;
+}
