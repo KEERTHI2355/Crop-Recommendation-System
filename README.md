@@ -75,7 +75,7 @@ README.md
 - Install Flask by running pip install flask in your `terminal/command prompt`.
 - Clone this repository by running
    ```
-  git clone https://github.com/Yashas711/crop-recommendation-system.git
+  git clone https://github.com/KEERTHI2355/Crop-Recommendation-System
   ```
 - Navigate to the project directory by running
   ```
@@ -89,7 +89,7 @@ README.md
 ## How to Contribute
 Feel free to submit issues and enhancement requests or fork the repository and submit pull requests. Contributions are welcome!
 
-1. Fork it (https://github.com/Yashas711/Crop-Recommendation-System/fork)
+1. Fork it (https://github.com/KEERTHI2355/Crop-Recommendation-System/fork)
 2. Create your feature branch (`git checkout -b feature/new-feature`)
 3. Commit your changes (`git commit -am 'Add some new feature`)
 4. Push to the branch (`git push origin feature/new-feature`)
