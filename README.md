@@ -2,6 +2,14 @@
 
 The **Crop Recommendation System** is an advanced machine learning-based model that helps farmers choose optimal crops by leveraging historical weather data, soil characteristics, and crop yield information to predict the most suitable crops for a specific location. It addresses the growing challenge of climate unpredictability by applying algorithms such as regression, classification, and ensemble methods to analyze complex interactions between environmental factors and crop performance. Deployed as a user-friendly web and mobile application, it allows farmers to input local data and receive precise crop recommendations, with the ultimate goal of enhancing agricultural productivity and sustainability through actionable, data-driven insights.
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-Queries-blue?logo=postgresql)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Model-blue?logo=scikit-learn)
+![API](https://img.shields.io/badge/API-Backend-blue?logo=fastapi)
+![EDA](https://img.shields.io/badge/EDA-Data%20Analysis-blue?logo=tableau)
+![Web Development](https://img.shields.io/badge/Web%20Development-Frontend%2FBackend-blue?logo=google-chrome)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
 
 ## 🧭 Overview  
 
